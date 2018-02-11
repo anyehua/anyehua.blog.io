@@ -1,11 +1,11 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "暗夜工作室 " 
 header-img: "img/green.jpg"
 ---
 
-这一页填写你的自我介绍。
+究天人之际，通古今之变！道法自然
 
 
 
